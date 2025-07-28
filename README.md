@@ -1,5 +1,5 @@
 # THIRD-SEMESTER-PROJECT
-🎬 Movie Recommender System (C++)
+🎬 Movie Recommendation System (C++)
 
 This is a C++ project that implements a simple hybrid Movie Recommender System. The system suggests similar movies using a combination of graph-based connections and content-based filtering. It’s designed to work with two input text files: one containing connections between movies and the other containing content information such as genre, director, and release year.
 
@@ -21,8 +21,7 @@ Top Suggestions: The system then displays the top 3 most similar connected movie
 ---
 
 🧾 Files Included
-
-MovieRecommender.cpp – The main source code containing the class definition and recommendation logic.
+Main.cpp – The main source code containing the class definition and recommendation logic.
 
 graph.txt – Text file representing a graph of connected movies (each line contains two movie names).
 
