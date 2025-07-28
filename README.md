@@ -141,7 +141,7 @@ Include user preferences or feedback for personalized results.
 
 👥 Team Members
 
-This project is developed as a collaborative senester project by the following team members from NED UNIVERSITY.Each member is showcasing the project individually on their Github profile:
+This project is developed as a collaborative semester project by the following team members from NED UNIVERSITY.Each member is showcasing the project individually on their Github profile:
 
 EISHA SOHAIL
 MENAHIL ALI
